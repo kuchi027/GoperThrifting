@@ -1,0 +1,23 @@
+
+.trending-section {
+    padding: 20px;
+  }
+  
+  .trending-list {
+    display: flex;
+    flex-direction: row; 
+    gap: 16px; 
+  }
+  
+  .item-component img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .item-component h3 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  

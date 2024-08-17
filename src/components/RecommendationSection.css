@@ -1,0 +1,10 @@
+.recommendations-section {
+    padding: 20px;
+  }
+  
+  .recommendations-list {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  

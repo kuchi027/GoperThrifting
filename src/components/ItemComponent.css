@@ -1,0 +1,43 @@
+.item-component {
+    background-color: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: left;
+  }
+  
+  .item-image {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .item-details {
+    padding: 10px;
+  }
+  
+  .item-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 5px 0;
+  }
+  
+  .item-description {
+    color: gray;
+    font-size: 14px;
+    margin: 5px 0;
+  }
+  
+  .item-price {
+    color: black;
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  .item-bids {
+    color: gray;
+    font-size: 14px;
+    margin: 5px 0;
+  }
+  
